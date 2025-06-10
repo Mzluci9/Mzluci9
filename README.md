@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that bridge finance and technology
 - 📫 How to reach me: michaelzewdu00@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love bodybuilding and am a certified personal trainer😄
+- ⚡ Fun fact: I love Fitness and am a certified personal trainer😄
 
 
 <!---
