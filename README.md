@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I love Fitness And Am a Certified Personal Trainer😄**
 
   ## I Regularly Write Articles On
-  <p <a href="https://medium.com/@michaelzewdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michaelzewdu" height="30" width="40" /></a> </p>
+  <p <a href="[https://medium.com/@michaelzewdu](https://michaelzewdu.medium.com/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michaelzewdu" height="30" width="40" /></a> </p>
 
 ## Connect with me:
 <p align="left">
