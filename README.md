@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Engineering ,Machine Learning & Deployment**
 
-- 👯 I’m looking to collaborate with **Anyone on Data Science & Data Analyst**
+- 👯 I’m looking to collaborate with **Anyone on Data Science & Data Analyst**                 <img src="https://drive.google.com/uc?export=view&id=1rC6xoHdHPe5Oa6mwpJuwItOQPiSYYzBr" width="500" alt="My Image">
 
 - 👨‍💻 All of my projects are available at [Soon---------](Soon---------)
 
@@ -22,7 +22,7 @@
 <a href="https://twitter.com/michaelzew88887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michaelzew88887" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/michael-zewdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/michael-zewdu" height="30" width="40" /></a>
 <a href="https://kaggle.com/---" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="---" height="30" width="40" /></a>
-<a href="https://medium.com/@michaelzewdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michaelzewdu" height="30" width="40" /></a>  <img src="https://drive.google.com/uc?export=view&id=1rC6xoHdHPe5Oa6mwpJuwItOQPiSYYzBr" width="300" alt="My Image">
+<a href="https://medium.com/@michaelzewdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michaelzewdu" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
