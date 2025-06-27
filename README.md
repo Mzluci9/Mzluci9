@@ -2,18 +2,16 @@
 
 A passionate And Aspiring Data scientist & Analyst
 
-<div style="float: right; margin-left: 20px; margin-bottom: 20px;">
-  <img src="https://drive.google.com/uc?export=view&id=1rC6xoHdHPe5Oa6mwpJuwItOQPiSYYzBr" width="500" alt="My Image">
-</div>
-
-- 🔭 I’m currently working on **Platform Management**
-- 🌱 I’m currently learning **Data Engineering ,Machine Learning & Deployment**
-- 👯 I’m looking to collaborate with **Anyone on Data Science & Data Analyst**             
-- 👨‍💻 All of my projects are available at [Soon---------](Soon---------)
-- 📝 I regularly write articles on [https://michaelzewdu.medium.com/](https://michaelzewdu.medium.com/)
-- 📫 How to reach me **michaelzewdu00@gmail.com**
-- 📄 Know about my experiences [https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/michael-zewdu/6bfa39a8-9983-410d-8aed-5cfedb5c09b2?view=html](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/michael-zewdu/6bfa39a8-9983-410d-8aed-5cfedb5c09b2?view=html)
-- ⚡ Fun fact **I love Fitness And Am a Certified Personal Trainer😄**
+|                                                                 | |
+|-----------------------------------------------------------------|-
+| - 🔭 I’m currently working on **Platform Management**            | <div style="text-align: right;"><img src="https://drive.google.com/uc?export=view&id=1rC6xoHdHPe5Oa6mwpJuwItOQPiSYYzBr" width="500" alt="My Image"></div> |
+| - 🌱 I’m currently learning **Data Engineering ,Machine Learning & Deployment** | |
+| - 👯 I’m looking to collaborate with **Anyone on Data Science & Data Analyst** | |
+| - 👨‍💻 All of my projects are available at [Soon---------](Soon---------) | |
+| - 📝 I regularly write articles on [https://michaelzewdu.medium.com/](https://michaelzewdu.medium.com/) | |
+| - 📫 How to reach me **michaelzewdu00@gmail.com** | |
+| - 📄 Know about my experiences [https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/michael-zewdu/6bfa39a8-9983-410d-8aed-5cfedb5c09b2?view=html](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/michael-zewdu/6bfa39a8-9983-410d-8aed-5cfedb5c09b2?view=html) | |
+| - ⚡ Fun fact **I love Fitness And Am a Certified Personal Trainer😄** | |
 
 ## Connect with me:
 <p align="left">
@@ -42,4 +40,5 @@ A passionate And Aspiring Data scientist & Analyst
 
 <!---
 Mzluci9/Mzluci9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
+You can click the Preview link to take a look at your changes.
+--->
