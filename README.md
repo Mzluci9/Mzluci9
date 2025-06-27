@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😎, I'm Michael.Z</h1>
+<h1 align="center">Sup 😎, I'm Michael.Z</h1>
 <h3 align="center">A passionate And Aspiring Data scientist & Analyst</h3>
 
 - 🔭 I’m currently working on **Platform Management**
