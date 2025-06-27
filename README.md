@@ -14,8 +14,12 @@
 - 📄 Know about my experiences(https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/michael-zewdu/6bfa39a8-9983-410d-8aed-5cfedb5c09b2?view=html)
 - ⚡ Fun fact **I love Fitness And Am a Certified Personal Trainer😄**
 
-  ## I Regularly Write Articles On
-  <p <a href="[https://medium.com/@michaelzewdu](https://michaelzewdu.medium.com/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michaelzewdu" height="30" width="40" /></a> </p>
+## I Regularly Write Articles On
+<p>
+  <a href="https://michaelzewdu.medium.com/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="michaelzewdu" height="30" width="40" />
+  </a>
+</p>
 
 ## Connect with me:
 <p align="left">
