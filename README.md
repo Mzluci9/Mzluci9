@@ -5,8 +5,8 @@
 - 📫 How to reach me: michaelzewdu00@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Fitness and am a certified personal trainer😄
-
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/michaelzewdu)
+- 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/michaelzewdu)
 
 
 <!---
