@@ -16,12 +16,11 @@
 
 
 
+
 ## Support:
 <a href="https://www.buymeacoffee.com/michaelzewdu" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;" />
 </a>
-
-
 
 
 <!---
