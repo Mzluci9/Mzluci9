@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Data Engineering ,Machine Learning & Deployment**
 
-- 👯 I’m looking to collaborate with **Anyone on Data Science & Data Analyst**                 <img src="https://drive.google.com/uc?export=view&id=1rC6xoHdHPe5Oa6mwpJuwItOQPiSYYzBr" width="500" alt="My Image">
+- 👯 I’m looking to collaborate with **Anyone on Data Science & Data Analyst**               <div style="float: right; margin-left: 20px;">
+  <img src="https://drive.google.com/uc?export=view&id=1rC6xoHdHPe5Oa6mwpJuwItOQPiSYYzBr" width="300" alt="My Image">
+</div>
 
 - 👨‍💻 All of my projects are available at [Soon---------](Soon---------)
 
