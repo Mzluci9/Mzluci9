@@ -45,7 +45,7 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;" />
 </a>
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mzluci9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mzluci9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzluci9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
