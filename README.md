@@ -45,7 +45,7 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;" />
 </a>
 
-! [snake gif] (https: //git/ub.com/Mzluci9/Mzluci9/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Mzluci9/Mzluci9/blob/output/github-snake-dark.svg)
 
 
 <!--# 📊 GitHub Stats:
