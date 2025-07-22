@@ -42,10 +42,6 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="40" height="40"/></a>
-<!-- Optional: Common App with placeholder icon -->
-<a href="https://www.commonapp.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/generic-app.png" alt="commonapp" width="40" height="40"/>
-</a>
 </p>
 
 ## Support:
