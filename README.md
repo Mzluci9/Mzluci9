@@ -41,6 +41,9 @@
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+<a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
+<a href="https://www.commonapp.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Commons-logo.svg/1024px-Commons-logo.svg.png" alt="commonapp" width="40" height="40"/></a>
 </p>
 
 ## Support:
