@@ -3,7 +3,7 @@
   # A passionate And Aspiring Data scientist & Analyst
 
 - 🔭 I’m currently working on **Platform Management**
-- 🌱 I’m currently learning **Data Engineering ,Machine Learning & Deployment**
+- 🌱 **Data Engineering ,Machine Learning & Deployment**
 - 👯 I’m looking to collaborate with **Anyone on Data Science & Data Analyst**             
 - 👨‍💻 All of my projects are available at [Soon---------](Soon---------)
               <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
