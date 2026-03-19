@@ -2,10 +2,10 @@
 
   # A passionate And Aspiring Data scientist & Analyst
 
-- 🔭 I’m currently working on **Platform Management**
-- 🌱 **Data Engineering ,Machine Learning
-- 👯 I’m looking to collaborate with **Anyone on Data Science & Data Analyst**             
-- 👨‍💻 All of my projects are available at [Soon---------](Soon---------)
+- I’m currently working on **Platform Management**
+- **Data Engineering ,Machine Learning
+- I’m looking to collaborate with **Anyone on Data Science & Data Analyst**             
+- All of my projects are available at [Soon---------](Soon---------)
               <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
   <img src="https://drive.google.com/uc?export=view&id=1rC6xoHdHPe5Oa6mwpJuwItOQPiSYYzBr" width="500" alt="My Image">
 </div>
