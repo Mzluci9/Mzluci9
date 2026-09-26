@@ -10,9 +10,9 @@
   <img src="https://drive.google.com/uc?export=view&id=1rC6xoHdHPe5Oa6mwpJuwItOQPiSYYzBr" width="500" alt="My Image">
 </div>
 
-- 📫 How to reach me **michaelzewdu00@gmail.com**
-- 📄 Know about my experiences(https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/michael-zewdu/6bfa39a8-9983-410d-8aed-5cfedb5c09b2?view=html)
-- ⚡ Fun fact **I love Fitness And Am a Certified Personal Trainer😄**
+-  reach me **michaelzewdu00@gmail.com**
+-  about my experiences(https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/michael-zewdu/6bfa39a8-9983-410d-8aed-5cfedb5c09b2?view=html)
+- Fun fact **I love Fitness And Am a Certified Personal Trainer😄**
 
 ## I Regularly Write Articles On
 <p>
